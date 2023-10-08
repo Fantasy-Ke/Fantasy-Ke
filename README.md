@@ -23,10 +23,11 @@
 
 - 🌱 A post-00s person who loves software development.
 - 👯 Currently working in **guangzhou, China**
-- 💬 Ask me about Deep Learning, Python and my projects
+- 💬 This is about my .net core Project
 - 📫 How to reach me: **zhoulucky210@gmail.com**
 - 😄 You may like [cnBlog](https://www.cnblogs.com/fantasy-ke/)
 - ⚡ Fun fact: **Code, Movie**
+- 🐧 Welcome to join my friend`s .net core communication group (831181779)
 
 You are my ![Visitor Count](https://profile-counter.glitch.me/Fantasy-Ke/count.svg) visitori
 
