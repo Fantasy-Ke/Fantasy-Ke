@@ -29,6 +29,7 @@
 - ⚡ Fun fact: **Code, Movie**
 - 🐧 Welcome to join my friend`s .net core communication group (831181779)
 
+
 You are my ![Visitor Count](https://profile-counter.glitch.me/Fantasy-Ke/count.svg) visitori
 
 # About My Github
