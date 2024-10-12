@@ -3,7 +3,7 @@
   <!-- dynamic typing effect 动态打字效果 -->
   <div align="center">
     <a href="https://blog.sunguoqi.com/">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);Fantasy-Ke祝您今天愉快!&center=true&size=27" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);fantasy-ke祝您今天愉快!&center=true&size=27" alt="Typing SVG" />
     </a>
   </div>
   <!-- knock code pictures 敲代码的图片 -->
@@ -18,7 +18,7 @@
 </div>
 
 
-# I'm Fantasy-Ke 
+# I'm fantasy-ke 
 <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 
 - 🌱 A post-00s person who loves software development.
@@ -30,12 +30,12 @@
 - 🐧 Welcome to join my friend`s .net core communication group (831181779)
 
 
-You are my ![Visitor Count](https://profile-counter.glitch.me/Fantasy-Ke/count.svg) visitori
+You are my ![Visitor Count](https://profile-counter.glitch.me/fantasy-ke/count.svg) visitori
 
 # About My Github
 <div align="center">
-<img height='180' width='420' src="https://github-readme-stats.vercel.app/api?username=Fantasy-Ke&show_icons=true&theme=calm" align="center" />
-<img height='180' width='420' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fantasy-Ke&layout=compact&theme=calm" align="center" />
+<img height='180' width='420' src="https://github-readme-stats.vercel.app/api?username=fantasy-ke&show_icons=true&theme=calm" align="center" />
+<img height='180' width='420' src="https://github-readme-stats.vercel.app/api/top-langs/?username=fantasy-ke&layout=compact&theme=calm" align="center" />
 </div> 
 
 
@@ -94,7 +94,7 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/Fantasy-Ke/count.s
 
 ## Connect with me  
 <div align="left">
-<a href="https://github.com/Fantasy-Ke" target="_blank">
+<a href="https://github.com/fantasy-ke" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 </div>  
