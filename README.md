@@ -25,7 +25,7 @@
 - 👯 Currently working in **guangzhou, China**
 - 💬 This is about my .net core Project
 - 📫 How to reach me: **zhoulucky210@gmail.com**
-- 😄 You may like [cnBlog](https://www.cnblogs.com/fantasy-ke/)
+- 😄 You may like [fantasyke.cn](https://fantasyke.cn)
 - ⚡ Fun fact: **Code, Movie**
 - 🐧 Welcome to join my friend`s .net core communication group (831181779)
 
